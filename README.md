@@ -22,7 +22,6 @@ Follow the steps below to clone, install, and run this project.
 
 ```bash
 git clone https://github.com/Ai-Chetan/youtube-downloader.git
-cd Youtube Video and Playlist Downloader
 ```
 
 ### 2. 🐍 Create a Virtual Environment (Optional but Recommended)
@@ -41,9 +40,9 @@ source venv/bin/activate
 ### 3. 📦 Install Requirements
 
 - Make sure you have [Python](https://www.python.org/downloads/) 3.7+ installed.
-- Then run following command in the terminal opened in the directory where 'youtube-downloader.py' is present
+- Then run following command in the terminal
 ```bash
-pip install pytubefix
+pip install -r requirements.txt
 ```
 
 ### 4. ▶️ How to Use
